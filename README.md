@@ -1,5 +1,4 @@
-**Cluster de kubernetes desplegado en AWS grupo3
-**
+# Cluster de kubernetes desplegado en AWS grupo3
 > El cluster de compone de tres entornos, dev, staging y production. Ademas en la carpeta modules/aws-s3-bucket tenemos la herramienta para crear los recursos necesarios para guardar el backend de forma remota. 
 >
 > Luego de crear los recursos para el backend, se pueden empezar a desplegar los entornos.
